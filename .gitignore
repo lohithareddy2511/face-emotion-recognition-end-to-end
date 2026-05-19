@@ -1,0 +1,32 @@
+# Data directory
+data/
+!data/.gitkeep
+
+# Model checkpoints
+checkpoints/
+!checkpoints/.gitkeep
+
+# Results
+results/
+!results/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
